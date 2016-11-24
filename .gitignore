@@ -1,0 +1,7 @@
+.settings/
+.classpath
+.projet
+/target/
+
+*.xls
+*.csv
